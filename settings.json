@@ -1,0 +1,58 @@
+{
+  "editor.fontSize": 14.2,
+  "window.zoomLevel": -0.65,
+  "files.eol": "\n",
+  "php.suggest.basic": false,
+  "php.executablePath": "c:\\php7_2\\php.exe",
+  "php.validate.executablePath": "c:\\php7_2\\php.exe",
+  "git.enabled": false,
+  "editor.minimap.enabled": true,
+  "editor.minimap.renderCharacters": false,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "var/cache": true,
+    "app/cache": true
+  },
+  "extensions.ignoreRecommendations": false,
+  "git.ignoreMissingGitWarning": true,
+  "explorer.confirmDragAndDrop": false,
+  "prettier.singleQuote": true,
+  "prettier.endOfLine": "lf",
+  "prettier.semi": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.tabSize": 4
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.tabSize": 4
+  },
+  "[yaml]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vetur.format.defaultFormatterOptions": {
+    "prettyhtml": {
+      "printWidth": 150,
+      "singleQuote": false,
+      "tabWidth": 4
+    }
+  },
+  "php-cs-fixer.executablePath": "${extensionPath}\\php-cs-fixer.phar",
+  "php-cs-fixer.exclude": [
+    "spec"
+  ],
+  "php-cs-fixer.lastDownload": 1561616795146,
+  "twig-language-2.formatting": false
+}
