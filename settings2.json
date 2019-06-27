@@ -1,0 +1,25 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 12,
+    "git.enableSmartCommit": true,
+    "update.mode": "none",
+    "terminal.integrated.fontSize": 12,
+    "editor.tabCompletion": "on",
+    "editor.formatOnSave": true,
+    "window.zoomLevel": 0,
+    "explorer.confirmDelete": false,
+    "elixirLS.dialyzerEnabled": false,
+    "vscode-php-cs-fixer.rules": "@PSR1,@PSR2",
+    "vscode-php-cs-fixer.toolPath": "/home/dblack/.config/composer/vendor/bin/php-cs-fixer",
+    "vetur.format.defaultFormatterOptions": {
+        "prettier": {
+            "semi": false,
+            "endOfLine": "lf"
+        },
+        "prettyhtml": {
+            "printWidth": 150,
+            "singleQuote": false,
+            "tabWidth": 2
+        }
+    },
+}
